@@ -1,4 +1,4 @@
-﻿namespace Aquino_JohnNelson_Act_GUI
+﻿namespace Bernabe_Allysa_Act_GUI
 {
     partial class EditForm
     {
